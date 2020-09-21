@@ -6,7 +6,7 @@ Os cursos me deram uma base de conhecimento sobre JS, HTML, CSS, React, Angular,
 
 Meu foco atualmente é o FrontEnd(com ênfase em JS/HTML/CSS/React).
 
-Expandir minhas competências, aprimorar minhas habilidades enquanto busco novas linguagens e tecnologias é a minha meta. 
+Quero continuar expandindo minhas competências, aprimorar minhas habilidades enquanto busco novas linguagens e tecnologias. Esse é o meu objetivo.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sirguilhermeoliveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-oliveira-27080910b/)
