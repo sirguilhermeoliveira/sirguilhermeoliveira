@@ -11,4 +11,8 @@ Quero continuar expandindo minhas competências, aprimorar minhas habilidades en
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/sirguilhermeoliveira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-oliveira-27080910b/)
 [![Gmail Badge](https://img.shields.io/badge/-sirguilhermeoliveira@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirguilhermeoliveira@gmail.com)]
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sirguilhermeoliveira) ]
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]
+(https://t.me/sirguilhermeoliveira)
+
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Linkedin&logoColor=white&link=https://t.me/sirguilhermeoliveira/)](https://t.me/sirguilhermeoliveira/)
