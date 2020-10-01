@@ -2,7 +2,7 @@
 
 Faço faculdade de Análise e Desenvolvimento de Sistemas, fiz vários cursos dentro da área de programação e também curso de inglês avançado.
 
-Os cursos através de teoria, aplicação e projetos abordaram: JS, HTML, CSS, React, Angular, Vue, Banco de dados relacional e não relacional, jQUERY, Bootstrap, API Rest, Gulp, Git, Webpack, Node, Express, dentre outros.
+Os cursos através de teoria, aplicação e projetos abordaram: HTML, JavaScript, CSS, React, Angular, Vue, Banco de dados relacional e não relacional, jQUERY, Bootstrap, API Rest, Gulp, Git, Webpack, Node, Express, dentre outros.
 
 Quero continuar expandindo minhas competências, aprimorar minhas habilidades enquanto busco novas linguagens e tecnologias. Esse é o meu objetivo.
 
