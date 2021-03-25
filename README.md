@@ -1,6 +1,6 @@
 # Olá, sou Guilherme
 
-Atuo atualmente como Desenvolvedor Fullstack PHP utilizando as linguagens JavaScript, HTML, CSS, PHP e os frameworks WordPress, Vue, Node, atuei como Estagiário Fullstack utilizando as linguagens JavaScript, HTML, CSS, PHP e os frameworks Vue e Laravel.
+Atuei como Desenvolvedor Fullstack PHP utilizando as linguagens JavaScript, HTML, CSS, PHP e os frameworks WordPress, Vue, Node, atuei como Estagiário Fullstack utilizando as linguagens JavaScript, HTML, CSS, PHP e os frameworks Vue e Laravel.
 
 Faço faculdade de Análise e Desenvolvimento de Sistemas, fiz vários cursos dentro da área de programação e também curso de inglês avançado.
 
