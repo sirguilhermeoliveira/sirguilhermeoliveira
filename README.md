@@ -1,6 +1,6 @@
 # Hi, i'm Guilherme
 
-##Im a JavaScript Developer.
+Im a brazilian JavaScript Developer.
 
 # Language and Frameworks
 
