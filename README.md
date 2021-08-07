@@ -15,3 +15,6 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/guilherme-oliveira-27080910b/)
 [![Gmail Badge](https://img.shields.io/badge/-sirguilhermeoliveira@gmail.com-c14438?logo=gmail&logoColor=white)](mailto:sirguilhermeoliveira@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirguilhermeoliveira&hide=php,blade,vue,html,hack,shell,objective-c,starlak,java,starlark)](https://github.com/anuraghazra/github-readme-stats)
+
