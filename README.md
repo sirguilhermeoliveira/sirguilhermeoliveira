@@ -2,7 +2,7 @@
 
 <h3 align="center">Im a brazilian JavaScript Developer.:rocket:</h3>
 
-<h2 align="left">Language and Frameworks:</h2>
+<h2 align="left">Languages and Frameworks:</h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
