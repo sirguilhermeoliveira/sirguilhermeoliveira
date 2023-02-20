@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, i'm Guilherme 👋</h1>
 
-<h3 align="center">Im a brazilian Developer.:rocket:</h3>
+<h3 align="center">Im a brazilian JavaScript Developer.:rocket:</h3>
 
 <h2 align="left">Languages and Frameworks:</h2>
 
@@ -10,6 +10,8 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS]([https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white])
+![AdonisJS]([https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white])
 
 <h2 align="left">Connect with me:</h2>
 
