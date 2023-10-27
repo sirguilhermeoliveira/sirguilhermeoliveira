@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, i'm Guilherme 👋</h1>
 
-<h3 align="center">Im a brazilian JavaScript Developer.:rocket:</h3>
+<h3 align="center">Im a Software Enginner.:rocket:</h3>
 
 <h2 align="left">Languages and Frameworks:</h2>
 
